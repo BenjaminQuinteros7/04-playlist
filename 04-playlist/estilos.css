@@ -1,37 +1,56 @@
 /*comentario de CSS*/
-img{
-    width: 70%;
+
+body {
+    background-image: url(/assets/fondoo.jpg);
 }
-body{
-    background-color: aqua;
-}
-h1{
+
+h1 {
     font-size: 2.5em;
-    text-align: center; 
-    background-color: chocolate;
+    text-align: center;
 }
-td{
+
+td {
     background-color: rgb(111, 96, 126);
 }
-a{
-    color:blanchedalmond
+
+a {
+    color: blanchedalmond
 }
-a{
-    background-color:rgb(31, 122, 122);
+
+a {
+    background-color: rgb(31, 122, 122);
 }
-table{
-    text-align:center;
+
+table {
+    background-image: url(/assets/imágenes/assets/imágenes/bass-fondo.jpg);
+    text-align: center;
     border-collapse: collapse;
-    width: 100%;
+    width: 50%;
 }
-td{
+
+td {
     background-color: beige;
 }
-th{
+
+th {
     border: 5px solid cornflowerblue;
     background-color: brown;
-    color:aliceblue
+    color: aliceblue
 }
-table tr{
+
+table tr {
+    text-align: center;
+}
+
+p {
+    font-size: 1.5em;
+    background-color:#00ffff00;
+}
+
+p {
+    color:black;
+}
+
+p{
     text-align: center;
 }
