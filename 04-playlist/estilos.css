@@ -9,9 +9,6 @@ h1 {
     text-align: center;
 }
 
-td {
-    background-color: rgb(111, 96, 126);
-}
 
 a {
     color: blanchedalmond
@@ -22,15 +19,12 @@ a {
 }
 
 table {
-    background-image: url(/assets/imágenes/assets/imágenes/bass-fondo.jpg);
+    background-image: url(/assets/imágenes/assets/imágenes/tabla-fondoo.png);
     text-align: center;
     border-collapse: collapse;
     width: 50%;
 }
 
-td {
-    background-color: beige;
-}
 
 th {
     border: 5px solid cornflowerblue;
